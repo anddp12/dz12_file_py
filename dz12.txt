@@ -1,0 +1,1 @@
+GitLab is an open source code repository or collaborative software development platform for large DevOps or DevSecOps projects. GitLab is free for individuals. GitLab offers a location for online code storage or capabilities for issue tracking or CI/CD.
