@@ -18,7 +18,7 @@ def change_words(file, words_find, words_new):
 
 print(change_words('dz12.txt', "and", "or"))
 
-
+#Yaroshkin
 # 2. Подсчет количества слов в содержимом текстового файла
 
 def num_words(file):
